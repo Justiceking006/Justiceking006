@@ -28,8 +28,8 @@ Currently exploring frontend development with a love for building responsive, cl
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=jusytech&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jusytech&layout=compact&theme=radical&hide_border=true)
+![Justiceking006's GitHub stats](https://github-readme-stats.vercel.app/api?username=Justiceking006&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Justiceking006&layout=compact&theme=radical&hide_border=true)
 
 ---
 
